@@ -1,4 +1,4 @@
 # odin-recipes
-Project do learning HTML, CSS and javascript.
+Project do for learning HTML, CSS and javascript.
 
-In final course I wish to know how to use this stacks to create web pages.
+IAt the end of course, I wish to know how to use this stacks to create web pages.
